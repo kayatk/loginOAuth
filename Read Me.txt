@@ -1,0 +1,8 @@
+1.Install Wampserver and Configure localhost port:8080.
+
+2.Import the mysql DB (login_system.sql) to Server.
+
+3.Copy the login_OAuth Folder inside the WWW Directory in Wamp Server.
+
+4.Open The Browser & Paste below URL
+	http://localhost/login_OAuth/index.php
